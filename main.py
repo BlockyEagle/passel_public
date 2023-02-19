@@ -213,4 +213,4 @@ client.run('MTA3NjkxNjE0NjY1MTAxNzMzNg.GLemMf.ygJUqvAjVO_UHr2ClqtIYg-Cl8VVijJP6Y
 ')
 
 # TODO If using GitHub diff deployment on HeroKu comment out the above line with '#' and remove '#' from the line below to uncomment it. 
-#client.run(os.environ.get('TOKEN'))
+client.run(os.environ.get('MTA3NjkxNjE0NjY1MTAxNzMzNg.GLemMf.ygJUqvAjVO_UHr2ClqtIYg-Cl8VVijJP6YCIMk'))
